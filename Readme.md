@@ -132,4 +132,4 @@ If predicted temperature is **< 28°C**, it indicates possible **rain**. Else, i
 
 ## 📬 Contact
 
-For queries or collaborations, feel free to reach out via [email/contact link].
+For queries or collaborations, feel free to reach out via [maddy@makeskilled.com].
